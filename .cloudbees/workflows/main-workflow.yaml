@@ -31,7 +31,7 @@ jobs:
           org-name: cloudbees-days
           repo-name: hackers-source-manav06102025-2
           branch-name: main
-          workflow-name: test-and-build-image
+          workflow-name: test-and-build-image2
           test-type: JUnit
           test-result-location: junit.xml
       - name: Get source code
